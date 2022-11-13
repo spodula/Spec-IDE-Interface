@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Spectrum")(type "KiCad")(uri "/home/graham/kicad/components/Spectrum.kicad_sym")(options "")(descr ""))
+  (lib (name "Misc")(type "KiCad")(uri "/home/graham/kicad/components/Misc.kicad_sym")(options "")(descr ""))
+  (lib (name "Edge_connectors")(type "KiCad")(uri "/home/graham/kicad/components/Edge_connectors.kicad_sym")(options "")(descr ""))
+)
